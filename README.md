@@ -1,5 +1,4 @@
 # Psychic-Game
-## Introduction
 The Psychic-Game application randomly picks a letter, and the user has to guess which letter is chosen.  
 
 ## Accomplishments
